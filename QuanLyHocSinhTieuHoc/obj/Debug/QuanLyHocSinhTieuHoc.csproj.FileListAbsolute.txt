@@ -1,0 +1,14 @@
+D:\Winform\QuanLyHocSinhTieuHoc\obj\Debug\QuanLyHocSinhTieuHoc.csproj.AssemblyReference.cache
+D:\Winform\QuanLyHocSinhTieuHoc\obj\Debug\QuanLyHocSinhTieuHoc.csproj.SuggestedBindingRedirects.cache
+D:\Winform\QuanLyHocSinhTieuHoc\obj\Debug\QuanLyHocSinhTieuHoc.Presentation.AdminGUI.resources
+D:\Winform\QuanLyHocSinhTieuHoc\obj\Debug\QuanLyHocSinhTieuHoc.Presentation.DangNhapGUI.resources
+D:\Winform\QuanLyHocSinhTieuHoc\obj\Debug\QuanLyHocSinhTieuHoc.Properties.Resources.resources
+D:\Winform\QuanLyHocSinhTieuHoc\obj\Debug\QuanLyHocSinhTieuHoc.csproj.GenerateResource.cache
+D:\Winform\QuanLyHocSinhTieuHoc\obj\Debug\QuanLyHocSinhTieuHoc.csproj.CoreCompileInputs.cache
+D:\Winform\QuanLyHocSinhTieuHoc\bin\Debug\QuanLyHocSinhTieuHoc.exe.config
+D:\Winform\QuanLyHocSinhTieuHoc\bin\Debug\QuanLyHocSinhTieuHoc.exe
+D:\Winform\QuanLyHocSinhTieuHoc\bin\Debug\QuanLyHocSinhTieuHoc.pdb
+D:\Winform\QuanLyHocSinhTieuHoc\obj\Debug\QuanLyHocSinhTieuHoc.exe
+D:\Winform\QuanLyHocSinhTieuHoc\obj\Debug\QuanLyHocSinhTieuHoc.pdb
+D:\Winform\QuanLyHocSinhTieuHoc\obj\Debug\QuanLyHocSinhTieuHoc.Presentation.GiaoVienGUI.resources
+D:\Winform\QuanLyHocSinhTieuHoc\obj\Debug\QuanLyHocSinhTieuHoc.Presentation.QuanLyDiemGUI.resources
